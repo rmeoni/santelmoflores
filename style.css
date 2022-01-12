@@ -184,7 +184,7 @@ text-align: center;
 
 #home {
 	height:600px;
-	background-image:url("/images/SAM_2206.jpg");
+	background-image:url("/public/images/SAM_2206.jpg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -244,7 +244,7 @@ text-align: center;
 
 #bs-over #about {
 	height:600px;
-  background-image: url("/images/sunset.jpg");
+  background-image: url("/public/images/sunset.jpg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -263,14 +263,14 @@ text-align: center;
 /*supporting*/
 
 #our-menu {
-  background-image: url("/images/SAM_2362.jpg");
+  background-image: url("/public/images/SAM_2362.jpg");
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
 }
 
 #our-antiques {
-  background-image: url("/images/SAM_2505.jpg");
+  background-image: url("/public/images/SAM_2505.jpg");
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
@@ -278,7 +278,7 @@ text-align: center;
 }
 
 #our-inspiration {
-  background-image: url("/images/front.jpg");
+  background-image: url("/public/images/front.jpg");
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
@@ -286,7 +286,7 @@ text-align: center;
 }
 
 #our-friends {
-  background-image: url("/images/friends.jpg");
+  background-image: url("/public/images/friends.jpg");
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
@@ -428,7 +428,7 @@ text-align: center;
 /*feature*/
 .feature-1 {
 	height:700px;
-	background-image:url("/images/SAM_2181.jpg");
+	background-image:url("/public/images/SAM_2181.jpg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -451,7 +451,7 @@ text-align: center;
 
 .feature-2 {
 	height:700px;
-	background-image:url("/images/pizza.jpg");
+	background-image:url("/public/images/pizza.jpg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -479,7 +479,7 @@ text-align: center;
 
 .feature-3 {
 	height:700px;
-	background-image:url("../images/SAM_2079.jpg");
+	background-image:url("/public/images/SAM_2079.jpg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
