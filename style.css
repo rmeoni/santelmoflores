@@ -155,7 +155,7 @@ text-align: center;
 /*email icon*/
 
 #location {
-	background-color: #6653C2;
+	background-color: #9FB9E1;
     background-position: 100% left;
     background-repeat: no-repeat;
     background-size: 22px 22px;
@@ -195,10 +195,10 @@ text-align: center;
 /*jumbotron*/
 
 #home {
-	height:600px;
-	background-image:url("/public/images/SAM_2206.jpg");
+	height:900px;
+	background-image:url("public/images/new/san-telmo-front.jpeg");
 	background-size: cover;
-	background-position: center;
+	background-position: bottom;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	margin-bottom: 0;
@@ -440,7 +440,7 @@ text-align: center;
 /*feature*/
 .feature-1 {
 	height:700px;
-	background-image:url("/public/images/SAM_2181.jpg");
+	background-image:url("public/images/new/feature-1.jpeg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -515,7 +515,7 @@ text-align: center;
 
 /*footer*/
 .footer {
-	background-color:#00897B;
+	background-color:#6653C2;
 	color:#fff;
 	padding:30px;
 }
