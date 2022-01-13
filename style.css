@@ -24,6 +24,18 @@ body:before {
 	background-size: cover;
 
 }
+
+/* h1 font */
+
+@font-face {
+	font-family: MochiyPop;
+	src: url(/public/fonts/MochiyPopPOne-Regular.ttf);
+  }
+  
+  h1 {
+	font-family: MochiyPop !important;
+  }
+
 /*mobile only*/
 .mobile-logo {
 	display:none;
