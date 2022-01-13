@@ -29,7 +29,7 @@ body:before {
 
 @font-face {
 	font-family: MochiyPop;
-	src: url(/public/fonts/MochiyPopPOne-Regular.ttf);
+	src: url(public/fonts/MochiyPopPOne-Regular.ttf);
   }
   
   h1 {
