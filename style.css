@@ -454,7 +454,7 @@ text-align: center;
 /*feature*/
 .feature-1 {
 	height:700px;
-	background-image:url("public/images/new/feature-1.jpeg");
+	background-image:url("public/images/new/book-table.jpeg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -525,6 +525,30 @@ text-align: center;
 	color: #fff;
 	font-size: 1.2em;
 	text-shadow: 0px 2px 3px #000;
+}
+
+.feature-4 {
+	height:700px;
+	background-image:url("public/images/new/rooms.jpeg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.feature-4 h1 {
+	padding:150px 0px 10px;
+	font-size:70px;
+	text-shadow:0 2px 3px rgba(0,0,0,.4);
+	color:#fff;
+	text-align:left;
+}
+
+.feature-4 p {
+	text-shadow:0 2px 3px rgba(0,0,0,.4);
+	color:#fff;
+	text-align:left;
+	font-size: 1.2em;
 }
 
 /*footer*/
