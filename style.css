@@ -25,6 +25,10 @@ body:before {
 
 }
 
+.col-xs-4 {
+	width: 100% !important;
+}
+
 /* h1 font */
 
 @font-face {
