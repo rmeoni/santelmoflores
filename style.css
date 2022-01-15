@@ -221,11 +221,12 @@ text-align: center;
 	text-align:center;
 	color:#fff;
 	opacity: 0.9;
+	padding: 40px !important;
 }
 
 #supporting-home h1 {
 	margin:0;
-	padding:40px 0px 10px;
+	padding: 0px 0px 10px;
 	font-size:5em;
 	text-shadow:0 2px 3px rgba(0,0,0,.4);
 	color:#fff;
