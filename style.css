@@ -676,6 +676,10 @@ text-align: center;
 	font-size: 2.5em;
 }
 
+.feature-5 {
+	background-attachment: none;
+}
+
 .jumbotron, .feature-1, .feature-2, .feature-3, .feature-4, #home, #our-friends, #our-antiques, #our-menu, #our-inspiration  {
 	background-attachment: scroll;
 }
