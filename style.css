@@ -669,7 +669,7 @@ text-align: center;
 }
 
 #supporting-home {
-	height: 220px;
+	height: auto !important;
 }
 
 #bs-over .supporting h1 {
@@ -679,7 +679,7 @@ text-align: center;
 .feature-5 {
 	background-attachment: none;
 	background-position: cover;
-	width: 100%;
+	width: 100% !important;
 }
 
 .jumbotron, .feature-1, .feature-2, .feature-3, .feature-4, #home, #our-friends, #our-antiques, #our-menu, #our-inspiration  {
