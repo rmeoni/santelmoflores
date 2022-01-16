@@ -645,7 +645,7 @@ text-align: center;
 
 .feature-1 h1 , .feature-2 h1, .feature-3 h1, .feature-4 h1, .feature-5 h1 {
 	font-size: 3em !important;
-	padding:100px 0px 4px !important;
+	padding:150px 0px 4px !important;
 }
 
 .btn {
@@ -653,7 +653,8 @@ text-align: center;
 }
 
 #supporting-home h1 {
-	padding-top: 40px !important;
+	padding-top: 28px !important;
+	font-size: 3em;
 	
 }
 
@@ -687,16 +688,12 @@ text-align: center;
 	height: auto !important;
 }
 
-#bs-over .supporting h1 {
-	font-size: 3em;
-}
-
 /*massage section*/
 .feature-5 {
 	background-attachment: scroll;
 	background-position: cover;
 	width: 100% !important;
-	height: 400px;
+	height: 500px;
 }
 
 .jumbotron, .feature-1, .feature-2, .feature-3, .feature-4, #home, #our-friends, #our-antiques, #our-menu, #our-inspiration  {
