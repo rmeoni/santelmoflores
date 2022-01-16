@@ -643,7 +643,7 @@ text-align: center;
 
 @media only screen and (max-width:768px) {
 
-h1 {
+.feature-1 h1 , .feature-2 h1, .feature-3 h1, .feature-4 h1, .feature-5 h1 {
 	font-size: 3em !important;
 	padding:100px 0px 4px !important;
 }
