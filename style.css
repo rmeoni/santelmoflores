@@ -645,7 +645,11 @@ text-align: center;
 
 h1 {
 	font-size: 3em !important;
-	padding:80px 0px 10px !important;
+	padding:60px 0px 10px !important;
+}
+
+.btn {
+	margin-top: 40px;
 }
 
 .header li {
