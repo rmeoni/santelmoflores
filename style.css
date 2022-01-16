@@ -685,6 +685,7 @@ h1 {
 	background-attachment: none;
 	background-position: cover;
 	width: 100% !important;
+	height: auto;
 }
 
 .jumbotron, .feature-1, .feature-2, .feature-3, .feature-4, #home, #our-friends, #our-antiques, #our-menu, #our-inspiration  {
