@@ -686,11 +686,12 @@ h1 {
 	font-size: 3em;
 }
 
+/*massage section*/
 .feature-5 {
-	background-attachment: none;
+	background-attachment: scroll;
 	background-position: cover;
 	width: 100% !important;
-	height: 700px;
+	height: 400px;
 }
 
 .jumbotron, .feature-1, .feature-2, .feature-3, .feature-4, #home, #our-friends, #our-antiques, #our-menu, #our-inspiration  {
