@@ -643,6 +643,10 @@ text-align: center;
 
 @media only screen and (max-width:768px) {
 
+h1 {
+	font-size: 3em !important;
+}
+
 .header li {
 	display:none;
 }
@@ -674,7 +678,7 @@ text-align: center;
 }
 
 #bs-over .supporting h1 {
-	font-size: 2.5em;
+	font-size: 3em;
 }
 
 .feature-5 {
@@ -693,15 +697,15 @@ text-align: center;
 }
 
 .jumbotron h1 {
-	font-size: 4.5em;
+	font-size: 3em;
 }
 
 #gallery h1 {
-	font-size: 4.5em;
+	font-size: 3em;
 }
 
 #contact h1 {
-	font-size: 4.5em;
+	font-size: 3em;
 }
 
 .galleria img {
