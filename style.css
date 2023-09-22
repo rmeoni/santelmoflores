@@ -33,6 +33,14 @@ html {
 	width: 100% !important;
 }
 
+/* image gallery */
+.item img {
+max-width: 100vw;
+max-height: 100vh;
+vertical-align: middle;
+
+}
+
 /* h1 font */
 
 @font-face {
